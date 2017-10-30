@@ -1,1 +1,4 @@
-# React boilerplate | Webpack 2+
+# Demo App, Reactjs + Redux + react-redux
+
+
+> Select book from a list of book
